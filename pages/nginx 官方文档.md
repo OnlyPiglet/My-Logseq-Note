@@ -1,0 +1,2 @@
+- [nginx官方文档 与 其第三方模块的 说明](https://nginx.org/en/docs/)
+- [openresty 官方文档 与 参数解释](https://github.com/openresty/lua-nginx-module)

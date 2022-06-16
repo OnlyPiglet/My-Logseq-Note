@@ -1,0 +1,3 @@
+- ![【高清电子版】Kubernetes实战（套装共2册）.pdf](../assets/【高清电子版】Kubernetes实战（套装共2册）_1650875756805_0.pdf) #book
+- [Kubernetes in Action中文版（博文视点图书） (七牛容器云团队) (z-lib.org).epub](../assets/Kubernetes_in_Action中文版（博文视点图书）_(七牛容器云团队)_(z-lib.org)_1652771731541_0.epub) #book
+-

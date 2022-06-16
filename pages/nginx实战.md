@@ -1,0 +1,5 @@
+- [nginx 核心模块参数说明](https://nginx.org/en/docs/http/ngx_http_core_module.html)
+- [lua nginx 核心参数说明](https://github.com/openresty/lua-nginx-module)
+- [nginx代理 https服务](https://blog.51cto.com/u_2839840/2436488)
+- [[nginx location使用说明]]
+-

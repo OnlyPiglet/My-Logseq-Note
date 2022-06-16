@@ -1,0 +1,5 @@
+- [Effective Go](https://go.dev/doc/effective_go)
+- [CodeComment](https://github.com/golang/go/wiki/CodeReviewComments#initialisms)
+- [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)
+- {{video https://www.bilibili.com/video/BV1Ca411L72p?p=1&share_medium=iphone&share_plat=ios&share_session_id=C636FBC7-AC19-4C35-BB13-840F75AEAC1D&share_source=WEIXIN&share_tag=s_i&timestamp=1655072079&unique_k=dBLLWgC}}
+-

@@ -1,0 +1,2 @@
+- [Prometheus 长期远程存储方案 VictoriaMetrics 入门实践](https://mp.weixin.qq.com/s/C3fzohygl5_tey70Qnz3og)
+- [prometheus 内置函数](https://prometheus.fuckcloudnative.io/di-san-zhang-prometheus/di-4-jie-cha-xun/functions) #link

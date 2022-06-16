@@ -1,0 +1,2 @@
+- [将 paxos 和 raft 统一到一个协议下: abstract-paxos](https://blog.openacid.com/algo/abstract-paxos/)
+- [文章收藏](https://www.codedump.info/post/20220417-weekly-13/)

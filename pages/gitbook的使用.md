@@ -1,0 +1,3 @@
+- gitbook 可以用作  Book 用户手册文档,API 接口文档和 FAQ 快速问答文档.
+- [gitbook使用手册说明](https://segmentfault.com/a/1190000018810724)
+- [gitbook插件说明](https://segmentfault.com/a/1190000018777424?utm_source=sf-similar-article)

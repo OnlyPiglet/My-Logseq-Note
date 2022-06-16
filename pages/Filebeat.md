@@ -1,0 +1,7 @@
+- ## 起源
+- > 作者只是一个人，加入http://elastic.co公司以后，因为es公司本身还收购了另一个开源项目packetbeat，而这个项目专门就是用golang的，有整个团队，所以es公司干脆把logstash-forwarder的开发工作也合并到同一个golang团队来搞，于是新的项目就叫filebeat了。
+- [在线说明文档](https://www.elastic.co/guide/en/beats/filebeat/8.1/kafka-output.html#_version_3)
+- [[filebeat部署与配置]]
+- ## 文档合集
+	- [filebeat 转 kafka](https://wylong.top/kafka%E6%B5%B7%E9%87%8F%E6%97%A5%E5%BF%97%E6%94%B6%E9%9B%86%E7%B3%BB%E7%BB%9F/03-Filebeat%E6%94%B6%E9%9B%86%E5%8F%91%E9%80%81%E5%88%B0kafka.html)
+	-

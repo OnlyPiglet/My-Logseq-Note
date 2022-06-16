@@ -1,0 +1,5 @@
+- [[一致性算法raft]]
+- [[etcd v2协议 golang版 生产可用代码]]
+- [etcd 实战](https://fanlv.wiki/2021/04/11/note/etcd/) #link
+- ![etcd技术内幕 (百里燊) (z-lib.org).pdf](../assets/etcd技术内幕_(百里燊)_(z-lib.org)_1652318698395_0.pdf) #book
+- ![Etcd源码解析 (侯宜军) (z-lib.org).pdf](../assets/Etcd源码解析_(侯宜军)_(z-lib.org)_1652318711417_0.pdf) #book

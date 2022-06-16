@@ -1,0 +1,4 @@
+- [系统设计之基于资源角色的权限管理](https://blog.haojunyu.com/post/authority_rbac/) #link
+- [[网关多租户权限设计]]
+- [[casbin]]
+-

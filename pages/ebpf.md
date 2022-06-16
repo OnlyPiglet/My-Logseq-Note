@@ -1,0 +1,10 @@
+- 高效入门eBPF #vedio
+	- {{bilibili https://www.bilibili.com/video/BV1LX4y157Gp/}}
+- BPF C编程入门 #vedio
+	- {{bilibili https://www.bilibili.com/video/BV1f54y1h74r/}}
+- [ebpf 网关](https://ebpf.io/) #link
+- [Linux超能力BPF技术介绍及学习分享（技术创作101训练营)](https://cloud.tencent.com/developer/article/1698426) #link
+- ![LinuxObservabilitywithBPF.pdf](../assets/LinuxObservabilitywithBPF_1650943029748_0.pdf) #book
+- ![Aug19_eBPF_and_Kubernetes_Little_Helper_Minions_for_Scaling_Microservices_Daniel_Borkmann.pdf](../assets/Aug19_eBPF_and_Kubernetes_Little_Helper_Minions_for_Scaling_Microservices_Daniel_Borkmann_1650943043480_0.pdf) #book
+- [[译] 大规模微服务利器：eBPF + Kubernetes（KubeCon, 2020）](http://arthurchiao.art/blog/ebpf-and-k8s-zh/) #link
+- [ ecapture](https://github.com/ehids/ecapture/blob/master/README_CN.md) #link
